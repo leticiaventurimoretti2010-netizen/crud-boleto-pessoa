@@ -1,7 +1,7 @@
 #Projeto pessoa JSON
 
 ##Introdução
-Este é um projeto baseado no conteúdo ministrado previamente pelo professor Rogrido Curvello 
+Este é um projeto baseado no conteúdo ministrado previamente pelo professor Rogrido Curvello.
 A ele foram adicionadas algumas caracteristicas e modificadas outras. Entre as alterações realizadas destaca-se:
 *a utilização do picocss
 *refatoramento de algumas páginas php
